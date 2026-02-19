@@ -5,10 +5,9 @@ import os
 API_KEY = os.environ["YOUTUBE_API_KEY"]
 
 TABS = {
-    "latest": "kpop news 2025",
-    "bts": "BTS",
-    "blackpink": "BLACKPINK",
-    "newmvs": "kpop MV 2025"
+    "xg": "XG kpop",
+    "illit": "ILLIT kpop",
+    "straykids": "Stray Kids kpop"
 }
 
 def search_youtube(query, max_results=10):
