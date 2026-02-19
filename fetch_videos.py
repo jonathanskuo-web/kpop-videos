@@ -1,48 +1,44 @@
-import requests
-import json
-import os
+name: Fetch YouTube Videos
 
-API_KEY = os.environ["YOUTUBE_API_KEY"]
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # every 2 hours
+  workflow_dispatch:         # lets you run it manually too
 
-TABS = {
-    "xg": "XG kpop",
-    "illit": "ILLIT kpop",
-    "straykids": "Stray Kids kpop"
-}
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-def search_youtube(query, max_results=10):
-    url = "https://www.googleapis.com/youtube/v3/search"
-    params = {
-        "part": "snippet",
-        "q": query,
-        "type": "video",
-        "maxResults": max_results,
-        "order": "date",
-        "key": API_KEY
-    }
-    r = requests.get(url, params=params)
-    items = r.json().get("items", [])
-    
-    results = []
-    for item in items:
-        snippet = item["snippet"]
-        video_id = item["id"]["videoId"]
-        results.append({
-            "title": snippet["title"],
-            "description": snippet["description"],
-            "thumbnail": snippet["thumbnails"]["high"]["url"],
-            "published": snippet["publishedAt"],
-            "videoId": video_id,
-            "url": f"https://www.youtube.com/watch?v={video_id}",
-            "channel": snippet["channelTitle"]
-        })
-    return results
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
-all_data = {}
-for tab, query in TABS.items():
-    all_data[tab] = search_youtube(query)
+      - name: Install dependencies
+        run: pip install requests
 
-with open("data/videos.json", "w") as f:
-    json.dump(all_data, f, indent=2)
+      - name: Run fetch script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python fetch_videos.py
 
-print("Done!")
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/videos.json
+          git diff --staged --quiet || git commit -m "Update video data"
+          git push
+```
+
+Commit this file. Then go to **Actions** tab in GitHub and manually trigger it once to confirm it works. You should see `data/videos.json` get populated with real YouTube data.
+
+---
+
+## Step 6: Make Your JSON Publicly Accessible
+
+Since your repo is public, your JSON file is already accessible at a URL like:
+```
+https://raw.githubusercontent.com/YOUR_USERNAME/kpop-feed/main/data/videos.json
