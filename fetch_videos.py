@@ -1,33 +1,48 @@
-name: Fetch YouTube Videos
+import requests
+import json
+import os
 
-on:
-  schedule:
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
+API_KEY = os.environ["YOUTUBE_API_KEY"]
 
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+TABS = {
+    "xg": "XG kpop",
+    "illit": "ILLIT kpop",
+    "straykids": "Stray Kids kpop"
+}
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+def search_youtube(query, max_results=10):
+    url = "https://www.googleapis.com/youtube/v3/search"
+    params = {
+        "part": "snippet",
+        "q": query,
+        "type": "video",
+        "maxResults": max_results,
+        "order": "date",
+        "key": API_KEY
+    }
+    r = requests.get(url, params=params)
+    items = r.json().get("items", [])
+    
+    results = []
+    for item in items:
+        snippet = item["snippet"]
+        video_id = item["id"]["videoId"]
+        results.append({
+            "title": snippet["title"],
+            "description": snippet["description"],
+            "thumbnail": snippet["thumbnails"]["high"]["url"],
+            "published": snippet["publishedAt"],
+            "videoId": video_id,
+            "url": f"https://www.youtube.com/watch?v={video_id}",
+            "channel": snippet["channelTitle"]
+        })
+    return results
 
-      - name: Install dependencies
-        run: pip install requests
+all_data = {}
+for tab, query in TABS.items():
+    all_data[tab] = search_youtube(query)
 
-      - name: Run fetch script
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python fetch_videos.py
+with open("data/videos.json", "w") as f:
+    json.dump(all_data, f, indent=2)
 
-      - name: Commit updated data
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add data/videos.json
-          git diff --staged --quiet || git commit -m "Update video data"
-          git push
+print("Done!")
