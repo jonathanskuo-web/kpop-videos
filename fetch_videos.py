@@ -5,16 +5,16 @@ import os
 API_KEY = os.environ["YOUTUBE_API_KEY"]
 
 TABS = {
-    "xg": "XG kpop",
-    "illit": "ILLIT kpop",
-    "straykids": "Stray Kids kpop"
+    "xg": "UC12HMtO5MYph9dCZZ7yygng",
+    "illit": "UCEpFoWeCMCo5z3EvWaz6hQQ",
+    "straykids": "UC9rMiEjNaCSsebs31MRDCRA"
 }
 
-def search_youtube(query, max_results=10):
+def search_youtube(channel_id, max_results=10):
     url = "https://www.googleapis.com/youtube/v3/search"
     params = {
         "part": "snippet",
-        "q": query,
+        "channelId": channel_id,
         "type": "video",
         "maxResults": max_results,
         "order": "date",
@@ -39,8 +39,8 @@ def search_youtube(query, max_results=10):
     return results
 
 all_data = {}
-for tab, query in TABS.items():
-    all_data[tab] = search_youtube(query)
+for tab, channel_id in TABS.items():
+    all_data[tab] = search_youtube(channel_id)
 
 with open("data/videos.json", "w") as f:
     json.dump(all_data, f, indent=2)
