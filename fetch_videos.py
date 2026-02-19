@@ -2,8 +2,8 @@ name: Fetch YouTube Videos
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # every 2 hours
-  workflow_dispatch:         # lets you run it manually too
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
   fetch:
@@ -31,14 +31,3 @@ jobs:
           git add data/videos.json
           git diff --staged --quiet || git commit -m "Update video data"
           git push
-```
-
-Commit this file. Then go to **Actions** tab in GitHub and manually trigger it once to confirm it works. You should see `data/videos.json` get populated with real YouTube data.
-
----
-
-## Step 6: Make Your JSON Publicly Accessible
-
-Since your repo is public, your JSON file is already accessible at a URL like:
-```
-https://raw.githubusercontent.com/YOUR_USERNAME/kpop-feed/main/data/videos.json
