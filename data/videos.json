@@ -93,6 +93,15 @@
   ],
   "illit": [
     {
+      "title": "#ILLIT #\uc544\uc77c\ub9bf",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/PxEO-GDUQcM/hqdefault.jpg",
+      "published": "2026-03-18T13:00:00Z",
+      "videoId": "PxEO-GDUQcM",
+      "url": "https://www.youtube.com/watch?v=PxEO-GDUQcM",
+      "channel": "ILLIT"
+    },
+    {
       "title": "SCRUM \ud83e\ude75\ud83e\udebd#PRESS_START_SEOUL #ILLIT #\uc544\uc77c\ub9bf",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/77LywjkU7QU/hqdefault.jpg",
@@ -172,15 +181,6 @@
       "videoId": "lM9WvnJbBjA",
       "url": "https://www.youtube.com/watch?v=lM9WvnJbBjA",
       "channel": "ILLIT"
-    },
-    {
-      "title": "\ud835\udc75\ud835\udc76\ud835\udc7b \ud835\udc74\ud835\udc6c #PRESS_START_SEOUL #ILLIT #\uc544\uc77c\ub9bf",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/a1IpB44ZVIw/hqdefault.jpg",
-      "published": "2026-03-16T10:00:00Z",
-      "videoId": "a1IpB44ZVIw",
-      "url": "https://www.youtube.com/watch?v=a1IpB44ZVIw",
-      "channel": "ILLIT"
     }
   ],
   "straykids": [
@@ -245,6 +245,24 @@
       "published": "2026-03-10T11:00:03Z",
       "videoId": "X7jAms_f4Rc",
       "url": "https://www.youtube.com/watch?v=X7jAms_f4Rc",
+      "channel": "Stray Kids"
+    },
+    {
+      "title": "Feel Stray Kids : The dominATE Experience in #4DX at select cinemas worldwide!",
+      "description": "Feel Stray Kids : The dominATE Experience in #4DX at select cinemas worldwide! Please check local listings for more details.",
+      "thumbnail": "https://i.ytimg.com/vi/2qmd6MFHTX8/hqdefault.jpg",
+      "published": "2026-01-13T14:00:19Z",
+      "videoId": "2qmd6MFHTX8",
+      "url": "https://www.youtube.com/watch?v=2qmd6MFHTX8",
+      "channel": "Stray Kids"
+    },
+    {
+      "title": "\ud658\uc2b9\uc5f0\uc560 \ud328\ub110 \uc800\ud76c\uc694 \uc81c\ubc1c \uc800\ud76c\uac00 \uc544\ub2c8\uba74 \uc548 \ub3fc\uc694 #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\uc2a4\ud0a4\uc988\ucf54\ub4dc #SKZCODE #HolidayHouse #YouMakeStrayKidsStay",
+      "description": "\ud658\uc2b9\uc5f0\uc560 \ud328\ub110 \uc800\ud76c\uc694 \uc81c\ubc1c \uc800\ud76c\uac00 \uc544\ub2c8\uba74 \uc548 \ub3fc\uc694 #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\uc2a4\ud0a4\uc988\ucf54\ub4dc #SKZCODE #HolidayHouse ...",
+      "thumbnail": "https://i.ytimg.com/vi/XnQDx1pPM-I/hqdefault.jpg",
+      "published": "2025-12-25T01:00:58Z",
+      "videoId": "XnQDx1pPM-I",
+      "url": "https://www.youtube.com/watch?v=XnQDx1pPM-I",
       "channel": "Stray Kids"
     }
   ]
