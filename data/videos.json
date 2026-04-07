@@ -1,6 +1,15 @@
 {
   "xg": [
     {
+      "title": "\ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc2c \ud835\udc28\ud835\udc27\ud835\udc1e\u2019\ud835\udc2c \ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc32\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1a\ud835\udc25\ud835\udc25 \ud835\udc2c\ud835\udc1e\ud835\udc1a\ud835\udc2c\ud835\udc28\ud835\udc27\ud80c\udc83 \ud80c\ude12\ud80c\udff8\u2741",
+      "description": "XG #CHISA #HARVEY #yslbeauty.",
+      "thumbnail": "https://i.ytimg.com/vi/O4zOSh9-lhs/hqdefault.jpg",
+      "published": "2026-04-07T10:07:16Z",
+      "videoId": "O4zOSh9-lhs",
+      "url": "https://www.youtube.com/watch?v=O4zOSh9-lhs",
+      "channel": "XG"
+    },
+    {
       "title": "\ud835\udc37\ud835\udc56\ud835\udc51 \ud835\udc60\ud835\udc5c\ud835\udc5a\ud835\udc52\ud835\udc5c\ud835\udc5b\ud835\udc52 \ud835\udc60\ud835\udc4e\ud835\udc66\u2026 \ud835\udc50\ud835\udc4e\ud835\udc61\ud835\udc64\ud835\udc4e\ud835\udc59\ud835\udc58?\ud83d\udc08\u200d\u2b1b \u02d6  \u2027\u208a\u02da\u22b9",
       "description": "XG #CHISA #GALA.",
       "thumbnail": "https://i.ytimg.com/vi/E3vMUqoOZEk/hqdefault.jpg",
@@ -80,15 +89,6 @@
       "videoId": "8xb_P7ureNU",
       "url": "https://www.youtube.com/watch?v=8xb_P7ureNU",
       "channel": "XG"
-    },
-    {
-      "title": "XG - ROCK THE BOAT (MV Teaser)",
-      "description": "Shot in partnership with Singapore Tourism Board: https://www.visitsingapore.com Featured locations in Singapore: Anderson ...",
-      "thumbnail": "https://i.ytimg.com/vi/R-E5Ql7vcZg/hqdefault.jpg",
-      "published": "2026-02-21T13:00:43Z",
-      "videoId": "R-E5Ql7vcZg",
-      "url": "https://www.youtube.com/watch?v=R-E5Ql7vcZg",
-      "channel": "XG"
     }
   ],
   "illit": [
@@ -165,21 +165,21 @@
       "channel": "ILLIT"
     },
     {
-      "title": "\uc774\ub85c\ud558\uc758 #PRESS_START \uc5f0\uc2b5 \uc77c\uae30! \uae00\ub9bf \ub0bc \ubd10\uc694~ #PRESS_START_SEOUL #ILLIT #\uc544\uc77c\ub9bf",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/otGlhWkgvHM/hqdefault.jpg",
-      "published": "2026-03-13T11:00:00Z",
-      "videoId": "otGlhWkgvHM",
-      "url": "https://www.youtube.com/watch?v=otGlhWkgvHM",
-      "channel": "ILLIT"
-    },
-    {
       "title": "#IROHA_CHOREO \ud83d\udc51#IROHA #ILLIT #\uc544\uc77c\ub9bf",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/qKKeIMOQ68c/hqdefault.jpg",
       "published": "2026-03-12T09:00:00Z",
       "videoId": "qKKeIMOQ68c",
       "url": "https://www.youtube.com/watch?v=qKKeIMOQ68c",
+      "channel": "ILLIT"
+    },
+    {
+      "title": "\uc758\uc678\ub85c \ucc1c\uc9c8\ubc29\uc5d0\uc11c \ud558\uba74 \uc7ac\ubbf8\uc788\ub294 \ud589\ub3d9 #\uc288\ud37c\uc544\uc77c\ub9bf #EP23 #ILLIT #\uc544\uc77c\ub9bf",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/inQpzKXWE44/hqdefault.jpg",
+      "published": "2026-03-09T13:00:00Z",
+      "videoId": "inQpzKXWE44",
+      "url": "https://www.youtube.com/watch?v=inQpzKXWE44",
       "channel": "ILLIT"
     }
   ],
