@@ -93,6 +93,15 @@
   ],
   "illit": [
     {
+      "title": "[\ud835\udc0f\ud835\udc25\ud835\udc1a\ud835\udc32\ud835\udc25\ud835\udc22\ud835\udc2c\ud835\udc2d] \u26e7*\u0329\u0329\u0359\u2e1d\u22c6\uc544\uc77c\ub9bf\uc758 \uac10\uc131 \ubabd\ud658\uace1\u26e7*\u0329\u0329\u0359\u2e1d\u22c6 | PRESS START\u2665 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 | ILLIT (\uc544\uc77c\ub9bf) [PLAY-IT]",
+      "description": "ILLIT #\uc544\uc77c\ub9bf #PRESS_START_SEOUL Connect with ILLIT ILLIT Weverse: https://www.weverse.io/illit Official YouTube: ...",
+      "thumbnail": "https://i.ytimg.com/vi/JhZJgF7L_-w/hqdefault.jpg",
+      "published": "2026-04-18T11:00:01Z",
+      "videoId": "JhZJgF7L_-w",
+      "url": "https://www.youtube.com/watch?v=JhZJgF7L_-w",
+      "channel": "ILLIT"
+    },
+    {
       "title": "random mamihlapinatapai dump #MAMIHLAPINATAPAI #FREE_RIDER #ILLIT #\uc544\uc77c\ub9bf",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/7BGkNwjwRz8/hqdefault.jpg",
@@ -172,18 +181,18 @@
       "videoId": "heZBqnwHkkI",
       "url": "https://www.youtube.com/watch?v=heZBqnwHkkI",
       "channel": "ILLIT"
-    },
-    {
-      "title": "IT&#39;S ME #KuangHan \ud83e\udef5\ud83e\ude75 #ILLIT #\uc544\uc77c\ub9bf #\u8a31\u5149\u6f22",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/w06XHJTKMbA/hqdefault.jpg",
-      "published": "2026-04-10T09:10:00Z",
-      "videoId": "w06XHJTKMbA",
-      "url": "https://www.youtube.com/watch?v=w06XHJTKMbA",
-      "channel": "ILLIT"
     }
   ],
   "straykids": [
+    {
+      "title": "\ub7ff\ubfd0\uc774\uc57c #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\ud604\uc9c4 #Hyunjin #YouMakeStrayKidsStay",
+      "description": "\ub7ff\ubfd0\uc774\uc57c #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\ud604\uc9c4 #Hyunjin #YouMakeStrayKidsStay Listen to \"\ubcc4, \ube5b (STAY)\" now   ...",
+      "thumbnail": "https://i.ytimg.com/vi/m_QwPfwIewE/hqdefault.jpg",
+      "published": "2026-04-18T10:59:57Z",
+      "videoId": "m_QwPfwIewE",
+      "url": "https://www.youtube.com/watch?v=m_QwPfwIewE",
+      "channel": "Stray Kids"
+    },
     {
       "title": "\uc544\ub2c8? \uc5d0\uba54\ub784\ub4dc #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\uc2a4\ud0a4\uc988\ucf54\ub4dc #SKZCODE #\ubd04\ub9de\uc774\ubab8\ub098\ub4e4\uc774 #SpringCheckupDay #YouMakeStrayKidsStay",
       "description": "\uc544\ub2c8? \uc5d0\uba54\ub784\ub4dc #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\uc2a4\ud0a4\uc988\ucf54\ub4dc #SKZCODE #\ubd04\ub9de\uc774\ubab8\ub098\ub4e4\uc774 #SpringCheckupDay ...",
@@ -263,15 +272,6 @@
       "published": "2026-04-11T07:56:18Z",
       "videoId": "4n9t6E_Utlc",
       "url": "https://www.youtube.com/watch?v=4n9t6E_Utlc",
-      "channel": "Stray Kids"
-    },
-    {
-      "title": "\ud83d\udc3f\ufe0fBurnin\u2019 Tires\ud83d\udc25 #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #SKZ_6TH_FANMEETING #STAY_in_Our_Little_House",
-      "description": "Burnin' Tires   #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #SKZ_6TH_FANMEETING #STAY_in_Our_Little_House Listen to \"\ubcc4, \ube5b (STAY)\" ...",
-      "thumbnail": "https://i.ytimg.com/vi/_G0u2vsZqvk/hqdefault.jpg",
-      "published": "2026-04-11T07:05:37Z",
-      "videoId": "_G0u2vsZqvk",
-      "url": "https://www.youtube.com/watch?v=_G0u2vsZqvk",
       "channel": "Stray Kids"
     }
   ]
