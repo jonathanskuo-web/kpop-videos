@@ -93,6 +93,15 @@
   ],
   "illit": [
     {
+      "title": "GG",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/jXiCobJNuqs/hqdefault.jpg",
+      "published": "2026-06-27T06:00:10Z",
+      "videoId": "jXiCobJNuqs",
+      "url": "https://www.youtube.com/watch?v=jXiCobJNuqs",
+      "channel": "ILLIT"
+    },
+    {
       "title": "OSAKA \ube75!!\ud83d\udc49\ud83e\ude77#PRESS_START_JAPAN #ILLIT #\uc544\uc77c\ub9bf",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/rRLwtRkGY1c/hqdefault.jpg",
@@ -172,18 +181,18 @@
       "videoId": "5FnIGyJTfxY",
       "url": "https://www.youtube.com/watch?v=5FnIGyJTfxY",
       "channel": "ILLIT"
-    },
-    {
-      "title": "\ud835\udc74\ud835\udc8a \ud835\udc6a\ud835\udc89\ud835\udc8a\ud835\udc84\ud835\udc90 #IROHA #ILLIT #\uc544\uc77c\ub9bf",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/XPuL3Bk2veI/hqdefault.jpg",
-      "published": "2026-06-22T08:30:37Z",
-      "videoId": "XPuL3Bk2veI",
-      "url": "https://www.youtube.com/watch?v=XPuL3Bk2veI",
-      "channel": "ILLIT"
     }
   ],
   "straykids": [
+    {
+      "title": "[kNOw\ub9d8\ub300\ub85c(The kNOw Way)] Ep.03",
+      "description": "[kNOw\ub9d8\ub300\ub85c(The kNOw Way)] Ep.03 \u2728 English, Japanese, Chinese, Spanish, Indonesian & Thai subtitles are available! Listen to ...",
+      "thumbnail": "https://i.ytimg.com/vi/UgbXvM0ejT4/hqdefault.jpg",
+      "published": "2026-06-27T02:59:55Z",
+      "videoId": "UgbXvM0ejT4",
+      "url": "https://www.youtube.com/watch?v=UgbXvM0ejT4",
+      "channel": "Stray Kids"
+    },
     {
       "title": "RUUUUUUUUUUN #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #THIS_AND_THAT #RUN_IT #StrayKidsComeback #YouMakeStrayKidsStay",
       "description": "RUUUUUUUUUUN #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #THIS_AND_THAT #RUN_IT #StrayKidsComeback #YouMakeStrayKidsStay ...",
@@ -263,15 +272,6 @@
       "published": "2026-06-25T03:59:48Z",
       "videoId": "BOMECIrjXi8",
       "url": "https://www.youtube.com/watch?v=BOMECIrjXi8",
-      "channel": "Stray Kids"
-    },
-    {
-      "title": "\ud83c\udfc3\ud83d\udc3a #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\ubc29\ucc2c #BangChan #THIS_AND_THAT #RUN_IT #YouMakeStrayKidsStay #Shorts",
-      "description": "StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\ubc29\ucc2c #BangChan #THIS_AND_THAT #RUN_IT #YouMakeStrayKidsStay #Shorts Listen to \"RUN IT\" ...",
-      "thumbnail": "https://i.ytimg.com/vi/U1qMampId3I/hqdefault.jpg",
-      "published": "2026-06-25T03:59:46Z",
-      "videoId": "U1qMampId3I",
-      "url": "https://www.youtube.com/watch?v=U1qMampId3I",
       "channel": "Stray Kids"
     }
   ]
