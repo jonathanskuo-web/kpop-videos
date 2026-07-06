@@ -93,6 +93,15 @@
   ],
   "illit": [
     {
+      "title": "bom-bom",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/FqYMITh412I/hqdefault.jpg",
+      "published": "2026-07-06T08:00:19Z",
+      "videoId": "FqYMITh412I",
+      "url": "https://www.youtube.com/watch?v=FqYMITh412I",
+      "channel": "ILLIT"
+    },
+    {
       "title": "\ud6c4\ucfe0\uc624\uce74, \uc218\uc774\ud1a0-\uc694\ud83d\udc95#PRESS_START_JAPAN #ILLIT #\uc544\uc77c\ub9bf",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/Hlw5s8ozoLk/hqdefault.jpg",
@@ -171,15 +180,6 @@
       "published": "2026-06-26T12:00:07Z",
       "videoId": "rRLwtRkGY1c",
       "url": "https://www.youtube.com/watch?v=rRLwtRkGY1c",
-      "channel": "ILLIT"
-    },
-    {
-      "title": "\ucc10 \uae30\ub2c8 \uc2a4\ubb34\uc0b4! #WONHEE #ILLIT #\uc544\uc77c\ub9bf",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/ooJJqtdiA9g/hqdefault.jpg",
-      "published": "2026-06-26T10:10:32Z",
-      "videoId": "ooJJqtdiA9g",
-      "url": "https://www.youtube.com/watch?v=ooJJqtdiA9g",
       "channel": "ILLIT"
     }
   ],
