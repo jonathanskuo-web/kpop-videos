@@ -93,6 +93,15 @@
   ],
   "illit": [
     {
+      "title": "1,2,3,4",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/h_O0OpjYLTw/hqdefault.jpg",
+      "published": "2026-07-21T12:00:17Z",
+      "videoId": "h_O0OpjYLTw",
+      "url": "https://www.youtube.com/watch?v=h_O0OpjYLTw",
+      "channel": "ILLIT"
+    },
+    {
       "title": "\ud6a8\uace0 GLLIT, \ub2e4\uc774\uc2a4\ud0a4\uc57c\ub370~!\ud83d\udc9e#PRESS_START_JAPAN #ILLIT #\uc544\uc77c\ub9bf",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/fYd-Chn1z40/hqdefault.jpg",
@@ -171,15 +180,6 @@
       "published": "2026-07-18T12:10:11Z",
       "videoId": "Pw91uD7jp2Q",
       "url": "https://www.youtube.com/watch?v=Pw91uD7jp2Q",
-      "channel": "ILLIT"
-    },
-    {
-      "title": "\ub204\uac00 \uaf43\uc774\uac8c\uff1e_\uff1c I #\uc5b4\ub514\uac14\uc288\uc77c\ub9bf #\ud2f0\uc8002",
-      "description": "\ubb50\uac00 \uaf43\uc778\uc9c0 \ub3c4\ud1b5 \ubaa8\ub974\uaca0\ub124 #ILLIT #\uc544\uc77c\ub9bf #\ud6c4\ucfe0\uc624\uce74 #\ub2f9\uc77c\uce58\uae30 #\uc288\ud37c\uc544\uc77c\ub9bf #\uc5b4\ub514\uac14\uc288\uc77c\ub9bf #SUPER_ILLIT #Where_is_SU_ILLIT ...",
-      "thumbnail": "https://i.ytimg.com/vi/zNjM_W48HxU/hqdefault.jpg",
-      "published": "2026-07-18T12:00:03Z",
-      "videoId": "zNjM_W48HxU",
-      "url": "https://www.youtube.com/watch?v=zNjM_W48HxU",
       "channel": "ILLIT"
     }
   ],
