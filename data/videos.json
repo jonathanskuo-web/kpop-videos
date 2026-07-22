@@ -93,6 +93,15 @@
   ],
   "illit": [
     {
+      "title": "Danse comme \ud83e\udd86",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/QCZeO8k_liU/hqdefault.jpg",
+      "published": "2026-07-22T12:00:22Z",
+      "videoId": "QCZeO8k_liU",
+      "url": "https://www.youtube.com/watch?v=QCZeO8k_liU",
+      "channel": "ILLIT"
+    },
+    {
       "title": "ENFP\uc640 ISTJ\uc758 \ubb34\uacc4\ud68d \ub098\uace0\uc57c \ub2f9\uc77c\uce58\uae30",
       "description": "ILLIT #\uc544\uc77c\ub9bf #\ub098\uace0\uc57c\uc5ec\ud589 #\uc724\uc544 #\ubbfc\uc8fc Connect with ILLIT ILLIT Weverse: https://weverse.io/illit Official YouTube: ...",
       "thumbnail": "https://i.ytimg.com/vi/ZYUoyGdgumA/hqdefault.jpg",
@@ -172,18 +181,18 @@
       "videoId": "WYRrE7ej2ig",
       "url": "https://www.youtube.com/watch?v=WYRrE7ej2ig",
       "channel": "ILLIT"
-    },
-    {
-      "title": "#MIU Got Your Back\ud83c\udf80 #ME_I @official_me_i_  #I_Got_Your_Back #ILLIT #MINJU",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/O8DVsxLCg1I/hqdefault.jpg",
-      "published": "2026-07-19T12:00:30Z",
-      "videoId": "O8DVsxLCg1I",
-      "url": "https://www.youtube.com/watch?v=O8DVsxLCg1I",
-      "channel": "ILLIT"
     }
   ],
   "straykids": [
+    {
+      "title": "\ud83e\udea5\ud83d\udd2b\ud83e\udee7 #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #YouMakeStrayKidsStay",
+      "description": "StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #YouMakeStrayKidsStay Listen to \"RUN IT\" now   https://Stray-Kids.lnk.to/RUNIT PRE-SAVE ...",
+      "thumbnail": "https://i.ytimg.com/vi/YGpviBcC5EA/hqdefault.jpg",
+      "published": "2026-07-22T11:59:52Z",
+      "videoId": "YGpviBcC5EA",
+      "url": "https://www.youtube.com/watch?v=YGpviBcC5EA",
+      "channel": "Stray Kids"
+    },
     {
       "title": "[RACHA LOG] Ep.25 \ub178\ubc29\ud669 : Bang Chan X Lee Know X Hyunjin",
       "description": "[RACHA LOG(\ub77c\ucc28\ub85c\uadf8)] Ep.25 \ub178\ubc29\ud669 : \ubc29\ucc2c X \ub9ac\ub178 X \ud604\uc9c4 (Bang Chan X Lee Know X Hyunjin) \u2728 English, Japanese, Chinese, ...",
@@ -263,15 +272,6 @@
       "published": "2026-07-14T10:59:59Z",
       "videoId": "jLjVVP3tw9s",
       "url": "https://www.youtube.com/watch?v=jLjVVP3tw9s",
-      "channel": "Stray Kids"
-    },
-    {
-      "title": "\ud83e\udd19\ud83e\udd19\ud83e\udd19 #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #YouMakeStrayKidsStay",
-      "description": "StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #YouMakeStrayKidsStay Listen to \"RUN IT\" now   https://Stray-Kids.lnk.to/RUNIT PRE-SAVE ...",
-      "thumbnail": "https://i.ytimg.com/vi/_Pe6SC7JDCY/hqdefault.jpg",
-      "published": "2026-07-13T10:59:18Z",
-      "videoId": "_Pe6SC7JDCY",
-      "url": "https://www.youtube.com/watch?v=_Pe6SC7JDCY",
       "channel": "Stray Kids"
     }
   ]
