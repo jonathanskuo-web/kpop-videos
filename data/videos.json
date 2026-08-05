@@ -129,15 +129,6 @@
       "channel": "ILLIT"
     },
     {
-      "title": "IROHA Got Your Back\ud83d\udc9a#I_Got_Your_Back #ILLIT #\uc544\uc77c\ub9bf #IROHA",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/Aj7HecsT_Co/hqdefault.jpg",
-      "published": "2026-08-05T07:00:01Z",
-      "videoId": "Aj7HecsT_Co",
-      "url": "https://www.youtube.com/watch?v=Aj7HecsT_Co",
-      "channel": "ILLIT"
-    },
-    {
       "title": "ILLIT &amp; JISOO &amp; MOMOKA Got Your Back\ud83e\udd1d\ud83c\udfd9\ufe0f\ud83e\udd95 #I_Got_Your_Back #ILLIT #\uc544\uc77c\ub9bf #HANA",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/XQWhr4F9vbo/hqdefault.jpg",
@@ -181,9 +172,27 @@
       "videoId": "7qcyoHNDO3A",
       "url": "https://www.youtube.com/watch?v=7qcyoHNDO3A",
       "channel": "ILLIT"
+    },
+    {
+      "title": "WONHEE Got Your Back\ud83e\ude77#I_Got_Your_Back #ILLIT #\uc544\uc77c\ub9bf #WONHEE",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/E7pHp_Zsae0/hqdefault.jpg",
+      "published": "2026-08-03T07:00:16Z",
+      "videoId": "E7pHp_Zsae0",
+      "url": "https://www.youtube.com/watch?v=E7pHp_Zsae0",
+      "channel": "ILLIT"
     }
   ],
   "straykids": [
+    {
+      "title": "[3RACHA Session] Session #1",
+      "description": "[3RACHA Session] Session #1 \u2728 English, Japanese, Chinese, Spanish, Indonesian & Thai subtitles are available! Listen to \"RUN ...",
+      "thumbnail": "https://i.ytimg.com/vi/EsRe1HOD2e0/hqdefault.jpg",
+      "published": "2026-08-05T13:59:59Z",
+      "videoId": "EsRe1HOD2e0",
+      "url": "https://www.youtube.com/watch?v=EsRe1HOD2e0",
+      "channel": "Stray Kids"
+    },
     {
       "title": "#Felix &amp; #I_N #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\ud544\ub9ad\uc2a4 #\uc544\uc774\uc5d4 #THIS_AND_THAT #StrayKidsComeback",
       "description": "Felix & #I_N #StrayKids #\uc2a4\ud2b8\ub808\uc774\ud0a4\uc988 #\ud544\ub9ad\uc2a4 #\uc544\uc774\uc5d4 #THIS_AND_THAT #StrayKidsComeback Listen to \"RUN IT\" now   ...",
@@ -263,15 +272,6 @@
       "published": "2026-08-03T01:00:42Z",
       "videoId": "256iktzI-Qw",
       "url": "https://www.youtube.com/watch?v=256iktzI-Qw",
-      "channel": "Stray Kids"
-    },
-    {
-      "title": "Stray Kids World Tour \uff1cRUN IT SEOUL\uff1e DAY5",
-      "description": "Stray Kids(\uc2a4\ud2b8\ub808\uc774 \ud0a4\uc988) World Tour \uff1cRUN IT SEOUL\uff1e DAY5 \uc55e\uc73c\ub85c\ub3c4 \uc774\uac83\uc800\uac83 \ud568\uaed8\ud574\uc694   Listen to \"RUN IT\" now   ...",
-      "thumbnail": "https://i.ytimg.com/vi/cOER2zxBHGs/hqdefault.jpg",
-      "published": "2026-08-02T13:50:10Z",
-      "videoId": "cOER2zxBHGs",
-      "url": "https://www.youtube.com/watch?v=cOER2zxBHGs",
       "channel": "Stray Kids"
     }
   ]
