@@ -1,6 +1,15 @@
 {
   "xg": [
     {
+      "title": "\ud835\udc03\ud835\udc28\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc13\ud835\udc2b\ud835\udc28\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc32\ud835\udc28\ud835\udc2e \ud835\udc27\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc2c\ud835\udc1a\ud835\udc30 \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20\ud83d\udc9a\u2764\ufe0f\u22c6.\u02da\u27e1\u22b9\u208a\u22c6",
+      "description": "MAYA #XG #LARA #KATSEYE.",
+      "thumbnail": "https://i.ytimg.com/vi/_2kAFI1rUAI/hqdefault.jpg",
+      "published": "2026-08-11T15:16:33Z",
+      "videoId": "_2kAFI1rUAI",
+      "url": "https://www.youtube.com/watch?v=_2kAFI1rUAI",
+      "channel": "XG"
+    },
+    {
       "title": "XG - TAKE MY BREATH (Rehearsal Video) Full ver.",
       "description": "XG WORLD TOUR: THE CORE FINAL \"1\" & \"7\" 2027.02.10 Wed Tokyo Dome 2027.02.11 Thu Tokyo Dome 2027.02.27 Sat ...",
       "thumbnail": "https://i.ytimg.com/vi/pQrQgkhPIo4/hqdefault.jpg",
@@ -11,29 +20,20 @@
     },
     {
       "title": "XG - TAKE MY BREATH (Rehearsal Video) Dance Break ver.",
-      "description": "XG WORLD TOUR: THE CORE FINAL \"1\" & \"7\" 2027.02.10 Wed Tokyo Dome 2027.02.11 Thu Tokyo Dome 2027.02.27 Sat ...",
-      "thumbnail": "https://i.ytimg.com/vi/QLiAgJjQffs/hqdefault.jpg",
-      "published": "2026-08-07T03:00:08Z",
-      "videoId": "QLiAgJjQffs",
-      "url": "https://www.youtube.com/watch?v=QLiAgJjQffs",
-      "channel": "XG"
-    },
-    {
-      "title": "XG - Tippy Toes (Live from XG WORLD TOUR: THE CORE at Yoyogi National Stadium 1st Gymnasium)",
-      "description": "XG WORLD TOUR: THE CORE 2026.02.06 Fri K-Arena Yokohama 2026.02.07 Sat K-Arena Yokohama 2026.02.08 Sun K-Arena ...",
-      "thumbnail": "https://i.ytimg.com/vi/vJ1Yrh7_SSw/hqdefault.jpg",
-      "published": "2026-07-06T09:00:12Z",
-      "videoId": "vJ1Yrh7_SSw",
-      "url": "https://www.youtube.com/watch?v=vJ1Yrh7_SSw",
-      "channel": "XG"
-    },
-    {
-      "title": "XG - TAKE MY BREATH (Rehearsal Video) Dance Break ver.",
       "description": "XG #TAKEMYBREATH #XG_TAKEMYBREATH.",
       "thumbnail": "https://i.ytimg.com/vi/iCzaYC2MNZQ/hqdefault.jpg",
       "published": "2026-08-07T10:34:45Z",
       "videoId": "iCzaYC2MNZQ",
       "url": "https://www.youtube.com/watch?v=iCzaYC2MNZQ",
+      "channel": "XG"
+    },
+    {
+      "title": "XG - TAKE MY BREATH (Rehearsal Video) Dance Break ver.",
+      "description": "XG WORLD TOUR: THE CORE FINAL \"1\" & \"7\" 2027.02.10 Wed Tokyo Dome 2027.02.11 Thu Tokyo Dome 2027.02.27 Sat ...",
+      "thumbnail": "https://i.ytimg.com/vi/QLiAgJjQffs/hqdefault.jpg",
+      "published": "2026-08-07T03:00:08Z",
+      "videoId": "QLiAgJjQffs",
+      "url": "https://www.youtube.com/watch?v=QLiAgJjQffs",
       "channel": "XG"
     },
     {
