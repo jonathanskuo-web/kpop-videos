@@ -1,15 +1,6 @@
 {
   "xg": [
     {
-      "title": "\ud835\udc03\ud835\udc28\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc13\ud835\udc2b\ud835\udc28\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc32\ud835\udc28\ud835\udc2e \ud835\udc27\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc2c\ud835\udc1a\ud835\udc30 \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20\ud83d\udc9a\u2764\ufe0f\u22c6.\u02da\u27e1\u22b9\u208a\u22c6",
-      "description": "MAYA #XG #LARA #KATSEYE.",
-      "thumbnail": "https://i.ytimg.com/vi/_2kAFI1rUAI/hqdefault.jpg",
-      "published": "2026-08-11T15:16:33Z",
-      "videoId": "_2kAFI1rUAI",
-      "url": "https://www.youtube.com/watch?v=_2kAFI1rUAI",
-      "channel": "XG"
-    },
-    {
       "title": "XG - TAKE MY BREATH (Rehearsal Video) Full ver.",
       "description": "XG WORLD TOUR: THE CORE FINAL \"1\" & \"7\" 2027.02.10 Wed Tokyo Dome 2027.02.11 Thu Tokyo Dome 2027.02.27 Sat ...",
       "thumbnail": "https://i.ytimg.com/vi/pQrQgkhPIo4/hqdefault.jpg",
@@ -20,20 +11,29 @@
     },
     {
       "title": "XG - TAKE MY BREATH (Rehearsal Video) Dance Break ver.",
-      "description": "XG #TAKEMYBREATH #XG_TAKEMYBREATH.",
-      "thumbnail": "https://i.ytimg.com/vi/iCzaYC2MNZQ/hqdefault.jpg",
-      "published": "2026-08-07T10:34:45Z",
-      "videoId": "iCzaYC2MNZQ",
-      "url": "https://www.youtube.com/watch?v=iCzaYC2MNZQ",
-      "channel": "XG"
-    },
-    {
-      "title": "XG - TAKE MY BREATH (Rehearsal Video) Dance Break ver.",
       "description": "XG WORLD TOUR: THE CORE FINAL \"1\" & \"7\" 2027.02.10 Wed Tokyo Dome 2027.02.11 Thu Tokyo Dome 2027.02.27 Sat ...",
       "thumbnail": "https://i.ytimg.com/vi/QLiAgJjQffs/hqdefault.jpg",
       "published": "2026-08-07T03:00:08Z",
       "videoId": "QLiAgJjQffs",
       "url": "https://www.youtube.com/watch?v=QLiAgJjQffs",
+      "channel": "XG"
+    },
+    {
+      "title": "\ud835\udc03\ud835\udc28\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc13\ud835\udc2b\ud835\udc28\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc32\ud835\udc28\ud835\udc2e \ud835\udc27\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc2c\ud835\udc1a\ud835\udc30 \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20\ud83d\udc9a\u2764\ufe0f\u22c6.\u02da\u27e1\u22b9\u208a\u22c6",
+      "description": "MAYA #XG #LARA #KATSEYE.",
+      "thumbnail": "https://i.ytimg.com/vi/_2kAFI1rUAI/hqdefault.jpg",
+      "published": "2026-08-11T15:16:33Z",
+      "videoId": "_2kAFI1rUAI",
+      "url": "https://www.youtube.com/watch?v=_2kAFI1rUAI",
+      "channel": "XG"
+    },
+    {
+      "title": "XG - TAKE MY BREATH (Rehearsal Video) Dance Break ver.",
+      "description": "XG #TAKEMYBREATH #XG_TAKEMYBREATH.",
+      "thumbnail": "https://i.ytimg.com/vi/iCzaYC2MNZQ/hqdefault.jpg",
+      "published": "2026-08-07T10:34:45Z",
+      "videoId": "iCzaYC2MNZQ",
+      "url": "https://www.youtube.com/watch?v=iCzaYC2MNZQ",
       "channel": "XG"
     },
     {
@@ -73,6 +73,15 @@
       "channel": "XG"
     },
     {
+      "title": "XG - Tippy Toes (Live from XG WORLD TOUR: THE CORE at Yoyogi National Stadium 1st Gymnasium)",
+      "description": "XG WORLD TOUR: THE CORE 2026.02.06 Fri K-Arena Yokohama 2026.02.07 Sat K-Arena Yokohama 2026.02.08 Sun K-Arena ...",
+      "thumbnail": "https://i.ytimg.com/vi/vJ1Yrh7_SSw/hqdefault.jpg",
+      "published": "2026-07-06T09:00:12Z",
+      "videoId": "vJ1Yrh7_SSw",
+      "url": "https://www.youtube.com/watch?v=vJ1Yrh7_SSw",
+      "channel": "XG"
+    },
+    {
       "title": "\ud83c\udd37\ud83c\udd34\ud83c\udd3b\ud83c\udd3b\ud83c\udd3e \ud83c\udd3c\ud83c\udd30\ud83c\udd3d\ud83c\udd38\ud83c\udd3b\ud83c\udd30 .\uff61\uff9f.*\u273f \ud83c\uddf5\ud83c\udded\ud83d\udeec THE CORE arrives tomorrow \ud83d\udef8\u2728",
       "description": "XG_WorldTour_THECORE #THECORETOUR #XG.",
       "thumbnail": "https://i.ytimg.com/vi/jWgXoL4vaXQ/hqdefault.jpg",
@@ -80,18 +89,18 @@
       "videoId": "jWgXoL4vaXQ",
       "url": "https://www.youtube.com/watch?v=jWgXoL4vaXQ",
       "channel": "XG"
-    },
-    {
-      "title": "\ud835\uddd5\ud835\udde5\ud835\uddd5\u2026 \ud835\udde2\ud835\udde7\ud835\uddea \ud835\udde7\ud835\udde2 \ud835\udde8 \ud835\udde6\ud835\udde2\ud835\udde2\ud835\udde1\ud83d\ude09.\u2022\u00b0:\u2727\u22c6.\u00b0",
-      "description": "XG #ORB.",
-      "thumbnail": "https://i.ytimg.com/vi/u1pFYLUJgM4/hqdefault.jpg",
-      "published": "2026-07-12T09:00:54Z",
-      "videoId": "u1pFYLUJgM4",
-      "url": "https://www.youtube.com/watch?v=u1pFYLUJgM4",
-      "channel": "XG"
     }
   ],
   "illit": [
+    {
+      "title": "\u9ad9\u6a4b\u6d77\u4eba Got Your Back\ud83d\udc51\u2728 @kp_official_523 #KingandPrince #I_Got_Your_Back #ILLIT #Venue101#IROHA",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/Fpomt6fi0uk/hqdefault.jpg",
+      "published": "2026-08-12T09:00:02Z",
+      "videoId": "Fpomt6fi0uk",
+      "url": "https://www.youtube.com/watch?v=Fpomt6fi0uk",
+      "channel": "ILLIT"
+    },
     {
       "title": "\ud835\ude4e\ud835\ude5e\ud835\ude59\ud835\ude5a \ud835\ude57\ud835\ude6e \ud835\ude68\ud835\ude5e\ud835\ude59\ud835\ude5a\ud83e\udd1d\ud83c\udf80\u2728#I_Got_Your_Back #ILLIT #\uc544\uc77c\ub9bf",
       "description": "",
@@ -171,15 +180,6 @@
       "published": "2026-08-08T07:00:19Z",
       "videoId": "aHKZwBc9wSI",
       "url": "https://www.youtube.com/watch?v=aHKZwBc9wSI",
-      "channel": "ILLIT"
-    },
-    {
-      "title": "YEOSANG Got Your Back\ud83d\udc51\ud83d\udcaa\u2728 @ATEEZofficial #ATEEZ #I_Got_Your_Back #ILLIT #Venue101 #YUNAH",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/xdg9xEZtCgk/hqdefault.jpg",
-      "published": "2026-08-07T12:00:28Z",
-      "videoId": "xdg9xEZtCgk",
-      "url": "https://www.youtube.com/watch?v=xdg9xEZtCgk",
       "channel": "ILLIT"
     }
   ],
